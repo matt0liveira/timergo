@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## What's timergo?
 
-Timergo is three projects in on (watch, stopwatch and timer) maked with ReactJS and Styled Components
+Timergo is three projects in one (watch, stopwatch and timer) maked with ReactJS and Styled Components
 
 ## Available Scripts
 
